@@ -84,10 +84,6 @@ Utilisez Postman :
 - Body : (cf. exemple ci-dessus)
 - Résultat : JSON avec tous les champs attendus.
 
-## Support
-
-Pour toute question technique, contactez Amira Ben Moussa (amira.benmoussa@softt365.com) en mettant Mr Zied en copie.
-
 ---
 
 © 2025 - Aymen Khiari
